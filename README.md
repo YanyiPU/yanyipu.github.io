@@ -11,6 +11,7 @@ Personal academic website: [yanyipu.github.io](https://yanyipu.github.io/).
 - `assets/portrait-github.png`: Yanyi's GitHub profile photograph.
 - `files/Yanyi_Pu_CV_Public.pdf`: watermarked public CV.
 - `files/publications.bib`: downloadable bibliography.
+- `googleda5504b39972d375.html`: Google Search Console ownership verification. Keep this file in place after verification.
 
 ## Maintenance
 
